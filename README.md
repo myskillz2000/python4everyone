@@ -9,3 +9,6 @@ Easy programs created to show that python works on this machine.  The title for 
 
 # Chapter 3
 "Conditional Execution"
+
+# Chapter 4
+"Functions"
