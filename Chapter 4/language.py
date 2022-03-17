@@ -1,9 +1,9 @@
 def greet(lang):
     if lang == 'es':
-        print('Hola')
+        return 'Hola'
     elif lang == 'fr':
-        print('Bonjour')
+        return 'Bonjour'
     else:
-        print('Hello')
+        return 'Hello'
 
 greet(input('What language do you speak?'))
