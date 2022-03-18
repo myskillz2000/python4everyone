@@ -21,3 +21,9 @@ Easy programs created to show that python works on this machine.  The title for 
 
 # Chapter 7
 "Reading Files"
+
+# Chapter 8
+"Python Lists"
+
+# Chapter 9
+"Python Dictionaries"
