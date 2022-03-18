@@ -12,3 +12,12 @@ Easy programs created to show that python works on this machine.  The title for 
 
 # Chapter 4
 "Functions"
+
+# Chapter 5
+"Loops and Iterations"
+
+# Chapter 6
+"Strings"
+
+# Chapter 7
+"Reading Files"
