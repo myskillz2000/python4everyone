@@ -1,3 +1,5 @@
+Editing this file to add more details.
+
 # py4e 
 Going through python for everyone.  Trying to upgrade my programming skillset.
 
